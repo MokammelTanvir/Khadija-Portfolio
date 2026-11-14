@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 800" width="640" height="800" role="img" aria-label="Dummy profile photo">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#c9d6ff"/>
+      <stop offset="0.55" stop-color="#e3e9ff"/>
+      <stop offset="1" stop-color="#e1d8ff"/>
+    </linearGradient>
+    <linearGradient id="shirt" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#4361ee"/>
+      <stop offset="1" stop-color="#2f3fb8"/>
+    </linearGradient>
+    <linearGradient id="hair" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#2b1b17"/>
+      <stop offset="1" stop-color="#0f0a09"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.35" r="0.6">
+      <stop offset="0" stop-color="#fff" stop-opacity=".7"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="640" height="800" fill="url(#bg)"/>
+  <rect width="640" height="800" fill="url(#glow)"/>
+  <circle cx="110" cy="130" r="70" fill="#fff" opacity=".35"/>
+  <circle cx="560" cy="250" r="46" fill="#7a5af8" opacity=".18"/>
+  <circle cx="520" cy="640" r="90" fill="#4361ee" opacity=".12"/>
+
+  <!-- shoulders / top -->
+  <path d="M60 800 C70 640 170 590 320 590 C470 590 570 640 580 800 Z" fill="url(#shirt)"/>
+  <path d="M255 590 L320 690 L385 590 Z" fill="#e8b79a"/>
+  <!-- neck -->
+  <path d="M268 500 h104 v110 c-20 30 -84 30 -104 0 z" fill="#d9a07f"/>
+  <!-- hair back -->
+  <path d="M175 330 C165 180 250 130 320 130 C400 130 480 190 465 340 C470 440 455 560 420 600 L220 600 C185 560 170 440 175 330 Z" fill="url(#hair)"/>
+  <!-- face -->
+  <ellipse cx="320" cy="355" rx="118" ry="148" fill="#e8b79a"/>
+  <!-- hair front -->
+  <path d="M200 330 C205 230 270 190 330 190 C400 190 440 240 440 330 C400 275 340 255 280 270 C240 280 215 300 200 330 Z" fill="url(#hair)"/>
+  <!-- face details -->
+  <ellipse cx="275" cy="360" rx="9" ry="11" fill="#2b1b17"/>
+  <ellipse cx="365" cy="360" rx="9" ry="11" fill="#2b1b17"/>
+  <path d="M255 335 q20 -12 40 0" stroke="#2b1b17" stroke-width="5" fill="none" stroke-linecap="round"/>
+  <path d="M345 335 q20 -12 40 0" stroke="#2b1b17" stroke-width="5" fill="none" stroke-linecap="round"/>
+  <path d="M320 370 q-8 38 6 46" stroke="#c98c6a" stroke-width="5" fill="none" stroke-linecap="round"/>
+  <path d="M278 442 q42 34 84 0" stroke="#b5483f" stroke-width="7" fill="none" stroke-linecap="round"/>
+  <ellipse cx="248" cy="418" rx="20" ry="12" fill="#f4a3a3" opacity=".45"/>
+  <ellipse cx="392" cy="418" rx="20" ry="12" fill="#f4a3a3" opacity=".45"/>
+</svg>

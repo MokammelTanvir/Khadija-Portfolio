@@ -1,0 +1,144 @@
+{
+  "name": "Khajida Khatun",
+  "brand": "Khajida.",
+  "role": "Digital Marketing Specialist",
+  "headline": "I turn clicks into customers and ad spend into",
+  "headlineHighlight": "predictable growth.",
+  "tagline": "Performance marketer & e-commerce growth partner helping brands in Bangladesh and beyond scale with Meta Ads, Google Ads, SEO and data-driven funnels.",
+  "availability": {
+    "show": true,
+    "text": "Available for new projects"
+  },
+  "profile": {
+    "image": "/images/profile.svg",
+    "alt": "Portrait of Khajida Khatun"
+  },
+  "contact": {
+    "email": "hello@example.com",
+    "phone": "+880 1980480686",
+    "whatsapp": "8801980480686",
+    "whatsappMessage": "Hi Khajida, I found your portfolio and would like to discuss a project.",
+    "address": "House 12, Road 5, Dhanmondi, Dhaka 1209, Bangladesh",
+    "city": "Dhaka, Bangladesh",
+    "workingHours": "Sun – Thu · 10:00 AM – 7:00 PM (GMT+6)",
+    "mapUrl": "https://maps.google.com/?q=Dhanmondi+Dhaka"
+  },
+  "social": [
+    {
+      "label": "LinkedIn",
+      "icon": "linkedin",
+      "url": "https://linkedin.com/in/your-handle"
+    },
+    {
+      "label": "Facebook",
+      "icon": "facebook",
+      "url": "https://facebook.com/your-handle"
+    },
+    {
+      "label": "Instagram",
+      "icon": "instagram",
+      "url": "https://instagram.com/your-handle"
+    },
+    {
+      "label": "YouTube",
+      "icon": "youtube",
+      "url": "https://youtube.com/@your-handle"
+    }
+  ],
+  "nav": [
+    {
+      "label": "About",
+      "href": "#about"
+    },
+    {
+      "label": "Services",
+      "href": "#services"
+    },
+    {
+      "label": "Work",
+      "href": "#projects"
+    },
+    {
+      "label": "Experience",
+      "href": "#experience"
+    },
+    {
+      "label": "Contact",
+      "href": "#contact"
+    }
+  ],
+  "cta": {
+    "primary": {
+      "label": "Hire Me",
+      "href": "#contact"
+    },
+    "secondary": {
+      "label": "View My Work",
+      "href": "#projects"
+    },
+    "headerLabel": "Let's Talk",
+    "resume": {
+      "show": false,
+      "label": "Download CV",
+      "href": "/cv.pdf"
+    }
+  },
+  "theme": {
+    "primary": "#4361ee",
+    "accent": "#7a5af8",
+    "defaultMode": "system"
+  },
+  "sections": {
+    "stats": true,
+    "about": true,
+    "services": true,
+    "process": true,
+    "projects": true,
+    "skills": true,
+    "experience": true,
+    "education": true,
+    "testimonials": true,
+    "faq": true,
+    "contact": true
+  },
+  "contactForm": {
+    "accessKey": "",
+    "endpoint": "",
+    "budgets": [
+      "Under $500",
+      "$500 – $1,500",
+      "$1,500 – $5,000",
+      "$5,000+"
+    ]
+  },
+  "seo": {
+    "title": "Khajida Khatun — Digital Marketing Specialist | Meta Ads, Google Ads, SEO",
+    "description": "Freelance digital marketer in Dhaka. Meta Ads, Google Ads, SEO, social media and e-commerce growth for brands that want measurable results.",
+    "siteUrl": "https://example.com",
+    "ogImage": "/images/og.png",
+    "keywords": "digital marketer bangladesh, facebook ads expert, google ads, seo specialist dhaka, ecommerce marketing, freelance marketer"
+  },
+  "footer": {
+    "blurb": "Strategy-led digital marketing for brands that care about real, measurable growth.",
+    "copyright": "All rights reserved."
+  },
+  "heroChips": [
+    {
+      "icon": "trending",
+      "value": "4.8x",
+      "label": "Average ROAS"
+    },
+    {
+      "icon": "briefcase",
+      "value": "120+",
+      "label": "Projects delivered"
+    }
+  ],
+  "heroTags": [
+    "Meta Ads",
+    "Google Ads",
+    "SEO",
+    "E-commerce",
+    "Analytics"
+  ]
+}

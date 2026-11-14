@@ -1,0 +1,12 @@
+{
+  "eyebrow": "How I Work",
+  "title": "A simple, transparent process",
+  "subtitle": "No jargon, no surprises — just a repeatable system that keeps your growth on track.",
+  "steps": [
+    { "title": "Discover", "text": "Deep-dive into your business, customers, competitors and current numbers." },
+    { "title": "Strategize", "text": "A clear plan with goals, channels, budget and the metrics we'll track." },
+    { "title": "Launch", "text": "Campaigns, tracking and creatives go live — properly tested and QA'd." },
+    { "title": "Optimize", "text": "Weekly testing and scaling of what works, cutting what doesn't." },
+    { "title": "Report", "text": "Plain-language reports and a call to review results and next steps." }
+  ]
+}

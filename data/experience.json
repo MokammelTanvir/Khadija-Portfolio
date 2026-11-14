@@ -1,0 +1,39 @@
+{
+  "eyebrow": "Experience",
+  "title": "Where I've grown brands",
+  "items": [
+    {
+      "role": "Freelance Digital Marketing Consultant",
+      "company": "Self-employed",
+      "period": "2022 – Present",
+      "location": "Dhaka · Remote",
+      "points": [
+        "Manage paid, SEO and e-commerce growth for 25+ clients across fashion, tech, health and services.",
+        "Built tracking and reporting systems that cut wasted ad spend by an average of 30%.",
+        "Mentored 12 junior marketers through workshops and 1:1 coaching."
+      ]
+    },
+    {
+      "role": "Senior Digital Marketing Executive",
+      "company": "BrightPath Agency",
+      "period": "2020 – 2022",
+      "location": "Dhaka",
+      "points": [
+        "Led a 5-person performance team handling 40+ monthly ad accounts.",
+        "Launched agency-wide creative testing framework that raised average CTR by 35%.",
+        "Owned client communication, reporting and quarterly strategy reviews."
+      ]
+    },
+    {
+      "role": "Social Media & SEO Executive",
+      "company": "PixelWave Digital",
+      "period": "2018 – 2020",
+      "location": "Dhaka",
+      "points": [
+        "Grew client organic traffic by an average of 180% through on-page SEO and content.",
+        "Created and managed content calendars for 10+ brands.",
+        "Introduced weekly analytics reviews that became standard practice."
+      ]
+    }
+  ]
+}

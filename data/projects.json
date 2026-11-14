@@ -1,0 +1,98 @@
+{
+  "eyebrow": "Selected Work",
+  "title": "Case studies with real, measurable results",
+  "subtitle": "Sample projects with placeholder numbers — replace with your actual clients and results.",
+  "categories": ["All", "Meta Ads", "Google Ads", "SEO", "E-commerce", "Social Media"],
+  "items": [
+    {
+      "title": "Fashion Brand Scale-up",
+      "client": "Nilima Fashion",
+      "category": "Meta Ads",
+      "summary": "Rebuilt the funnel and creative testing system for a D2C fashion store, scaling spend 5x while improving efficiency.",
+      "metrics": [
+        { "label": "ROAS", "value": "5.2x" },
+        { "label": "Revenue", "value": "+310%" },
+        { "label": "CPA", "value": "-42%" }
+      ],
+      "tools": ["Meta Ads", "GA4", "Shopify"],
+      "color": ["#4361ee", "#7a5af8"],
+      "image": "",
+      "link": ""
+    },
+    {
+      "title": "Local Service Lead Gen",
+      "client": "CleanPro Dhaka",
+      "category": "Google Ads",
+      "summary": "High-intent Search campaigns with call tracking brought a steady flow of booked appointments every week.",
+      "metrics": [
+        { "label": "Leads / mo", "value": "420" },
+        { "label": "CPL", "value": "$3.1" },
+        { "label": "Conv. rate", "value": "11.4%" }
+      ],
+      "tools": ["Google Ads", "GTM", "Call Tracking"],
+      "color": ["#0ea5e9", "#4361ee"],
+      "image": "",
+      "link": ""
+    },
+    {
+      "title": "Organic Traffic Engine",
+      "client": "HealthNest Blog",
+      "category": "SEO",
+      "summary": "Technical fixes and a 60-article content cluster strategy that took the site from zero to page-one rankings.",
+      "metrics": [
+        { "label": "Organic traffic", "value": "+640%" },
+        { "label": "Top-3 keywords", "value": "87" },
+        { "label": "Timeline", "value": "8 mo" }
+      ],
+      "tools": ["Ahrefs", "Search Console", "Surfer"],
+      "color": ["#10b981", "#0ea5e9"],
+      "image": "",
+      "link": ""
+    },
+    {
+      "title": "Electronics Store Launch",
+      "client": "TechNest BD",
+      "category": "E-commerce",
+      "summary": "Built the Shopify store, set up tracking and launched Meta + Google campaigns, hitting profitability in month two.",
+      "metrics": [
+        { "label": "Orders (90d)", "value": "2,900" },
+        { "label": "Conv. rate", "value": "3.8%" },
+        { "label": "ROAS", "value": "4.6x" }
+      ],
+      "tools": ["Shopify", "Meta CAPI", "Klaviyo"],
+      "color": ["#f59e0b", "#f43f5e"],
+      "image": "",
+      "link": ""
+    },
+    {
+      "title": "Restaurant Brand Buzz",
+      "client": "Spice Route Café",
+      "category": "Social Media",
+      "summary": "Short-video led content strategy and local promotions that turned a quiet page into a community.",
+      "metrics": [
+        { "label": "Followers", "value": "+48K" },
+        { "label": "Reach", "value": "2.1M" },
+        { "label": "Walk-ins", "value": "+65%" }
+      ],
+      "tools": ["Instagram", "TikTok", "CapCut"],
+      "color": ["#f43f5e", "#f59e0b"],
+      "image": "",
+      "link": ""
+    },
+    {
+      "title": "Skincare Repeat-Purchase Flows",
+      "client": "GlowLab",
+      "category": "E-commerce",
+      "summary": "Email and WhatsApp automations plus cart recovery lifted repeat revenue without increasing ad spend.",
+      "metrics": [
+        { "label": "Repeat rate", "value": "+38%" },
+        { "label": "Email revenue", "value": "27%" },
+        { "label": "Cart recovery", "value": "14%" }
+      ],
+      "tools": ["Klaviyo", "WhatsApp API", "WooCommerce"],
+      "color": ["#7a5af8", "#c04bff"],
+      "image": "",
+      "link": ""
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "eyebrow": "Skills & Tools",
+  "title": "A toolkit built for performance",
+  "subtitle": "Strategy, creative and analytics — backed by the platforms the best marketing teams use.",
+  "groups": [
+    {
+      "title": "Core Skills",
+      "skills": [
+        { "name": "Meta Ads", "level": 95 },
+        { "name": "Google Ads", "level": 90 },
+        { "name": "SEO", "level": 88 },
+        { "name": "Analytics & Tracking", "level": 90 },
+        { "name": "Email / WhatsApp Marketing", "level": 82 },
+        { "name": "Copywriting", "level": 85 }
+      ]
+    }
+  ],
+  "tools": [
+    "Meta Ads Manager", "Google Ads", "GA4", "Google Tag Manager", "Search Console",
+    "Looker Studio", "Ahrefs", "SEMrush", "Shopify", "WooCommerce",
+    "Klaviyo", "Mailchimp", "Canva", "Figma", "CapCut",
+    "ChatGPT", "Hotjar", "Notion"
+  ]
+}

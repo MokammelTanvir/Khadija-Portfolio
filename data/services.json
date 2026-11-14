@@ -1,0 +1,93 @@
+{
+  "eyebrow": "Services",
+  "title": "Everything you need to grow online, under one roof",
+  "subtitle": "From the first ad to a fully-optimized store — pick a single service or let me run the full growth stack.",
+  "items": [
+    {
+      "icon": "meta",
+      "title": "Meta (Facebook & Instagram) Ads",
+      "description": "Full-funnel campaigns that find buyers, not just clicks — creative testing, audience strategy and scaling.",
+      "points": ["Funnel & audience strategy", "Creative & copy testing", "Retargeting & lookalikes", "Weekly optimization"],
+      "price": "From $300/mo",
+      "featured": true
+    },
+    {
+      "icon": "google",
+      "title": "Google Ads (Search, Shopping, PMax)",
+      "description": "Capture high-intent demand with tightly-structured search, Shopping and Performance Max campaigns.",
+      "points": ["Keyword & intent research", "Shopping feed optimization", "Conversion tracking", "Negative keyword hygiene"],
+      "price": "From $300/mo"
+    },
+    {
+      "icon": "search",
+      "title": "SEO (Technical, On-page & Content)",
+      "description": "Sustainable organic growth with technical fixes, keyword-mapped content and authority building.",
+      "points": ["Technical SEO audit", "Keyword & content plan", "On-page optimization", "Link building"],
+      "price": "From $250/mo"
+    },
+    {
+      "icon": "cart",
+      "title": "E-commerce Marketing",
+      "description": "Grow Shopify, WooCommerce and custom stores — from product-page CRO to abandoned-cart recovery.",
+      "points": ["Store & funnel audit", "Product feed & catalog ads", "Abandoned cart flows", "Upsell & bundle strategy"],
+      "price": "From $400/mo",
+      "featured": true
+    },
+    {
+      "icon": "store",
+      "title": "E-commerce Website Setup",
+      "description": "Fast, conversion-focused online stores built on Shopify or WooCommerce, ready to sell on day one.",
+      "points": ["Shopify / WooCommerce build", "Payment & courier integration (bKash, SSLCommerz, Pathao)", "Product & SEO setup", "Mobile-first design"],
+      "price": "From $350"
+    },
+    {
+      "icon": "share",
+      "title": "Social Media Marketing",
+      "description": "Brand-building content and community management that earns attention and trust on every platform.",
+      "points": ["Content calendar", "Reels & short-video strategy", "Community management", "Monthly analytics"],
+      "price": "From $200/mo"
+    },
+    {
+      "icon": "mail",
+      "title": "Email & WhatsApp Marketing",
+      "description": "Own your audience with automated flows, newsletters and WhatsApp broadcasts that drive repeat sales.",
+      "points": ["Welcome & nurture flows", "Segmentation", "Campaign design & copy", "Deliverability setup"],
+      "price": "From $150/mo"
+    },
+    {
+      "icon": "pen",
+      "title": "Content & Copywriting",
+      "description": "Ad copy, landing pages, blogs and product descriptions that speak your customer's language.",
+      "points": ["Landing page copy", "Blog & SEO articles", "Ad scripts & captions", "Brand voice guide"],
+      "price": "From $100"
+    },
+    {
+      "icon": "chart",
+      "title": "Analytics & Tracking",
+      "description": "Clean, reliable data with GA4, GTM, Meta Pixel & Conversions API so you always know what works.",
+      "points": ["GA4 & GTM setup", "Meta CAPI / server-side", "Custom dashboards (Looker Studio)", "Attribution review"],
+      "price": "From $120"
+    },
+    {
+      "icon": "layout",
+      "title": "Landing Pages & CRO",
+      "description": "High-converting landing pages and A/B tests that turn more of your existing traffic into leads and sales.",
+      "points": ["Landing page design brief", "A/B testing", "Heatmap & funnel analysis", "Speed optimization"],
+      "price": "From $150"
+    },
+    {
+      "icon": "box",
+      "title": "Marketplace Management",
+      "description": "Listing optimization, ads and promotions for Daraz, Amazon and other marketplaces.",
+      "points": ["Listing SEO & images", "Sponsored ads", "Campaign participation", "Reviews & reputation"],
+      "price": "From $200/mo"
+    },
+    {
+      "icon": "compass",
+      "title": "Brand & Growth Strategy",
+      "description": "Positioning, offers and a 90-day roadmap so your marketing has direction before you spend a taka.",
+      "points": ["Market & competitor research", "Positioning & messaging", "Channel mix & budget plan", "KPI framework"],
+      "price": "From $200"
+    }
+  ]
+}

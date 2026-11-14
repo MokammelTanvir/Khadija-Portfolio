@@ -1,0 +1,21 @@
+{
+  "eyebrow": "About Me",
+  "title": "Marketing that is creative on the outside and analytical on the inside",
+  "paragraphs": [
+    "I'm Khajida, a digital marketer with 6+ years of hands-on experience running paid ads, SEO and e-commerce growth for startups, D2C brands and service businesses.",
+    "I believe good marketing is simple: understand the customer, make a clear offer, track everything, and keep improving. I work closely with founders and teams so every taka spent is accountable."
+  ],
+  "highlights": [
+    { "icon": "target", "title": "ROI-first mindset", "text": "Every campaign starts with a measurable goal and a tracking plan." },
+    { "icon": "chart", "title": "Data over guesswork", "text": "GA4, GTM and Pixel set up properly so decisions are based on facts." },
+    { "icon": "bolt", "title": "Fast execution", "text": "Clear weekly sprints, quick tests and transparent reporting." }
+  ],
+  "stats": [
+    { "value": 6, "suffix": "+", "label": "Years of experience" },
+    { "value": 120, "suffix": "+", "label": "Projects delivered" },
+    { "value": 2.5, "suffix": "M+", "prefix": "$", "decimals": 1, "label": "Ad spend managed" },
+    { "value": 4.8, "suffix": "x", "decimals": 1, "label": "Average ROAS" }
+  ],
+  "languages": ["Bangla (Native)", "English (Fluent)", "Hindi (Conversational)"],
+  "interests": ["Consumer psychology", "Copywriting", "Growth experiments", "Travel photography"]
+}

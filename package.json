@@ -1,0 +1,21 @@
+{
+  "name": "khajida-portfolio",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "nuxt dev",
+    "build": "nuxt generate",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "dependencies": {
+    "@fontsource-variable/inter": "^5.1.0",
+    "@fontsource-variable/plus-jakarta-sans": "^5.1.0",
+    "@nuxtjs/color-mode": "^4.1.0",
+    "@nuxtjs/tailwindcss": "^6.14.0",
+    "nuxt": "^4.6.4",
+    "vue": "latest",
+    "vue-router": "latest"
+  }
+}

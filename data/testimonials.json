@@ -1,0 +1,43 @@
+{
+  "eyebrow": "Testimonials",
+  "title": "What clients say",
+  "items": [
+    {
+      "quote": "Khajida rebuilt our ad account from scratch and our ROAS more than doubled in two months. Clear reports, zero fluff.",
+      "name": "Nilima Rahman",
+      "role": "Founder, Nilima Fashion",
+      "rating": 5
+    },
+    {
+      "quote": "She understands both the numbers and the customer. Our Shopify store finally has a predictable sales engine.",
+      "name": "Arif Hossain",
+      "role": "CEO, TechNest BD",
+      "rating": 5
+    },
+    {
+      "quote": "Professional, proactive and always on time. The SEO roadmap she built brought us real, qualified traffic.",
+      "name": "Sadia Islam",
+      "role": "Marketing Lead, HealthNest",
+      "rating": 5
+    },
+    {
+      "quote": "Our Google Ads cost per lead dropped by almost half within six weeks. She explains everything in plain language and always delivers.",
+      "name": "Tanvir Ahmed",
+      "role": "Owner, CleanPro Dhaka",
+      "rating": 5
+    },
+    {
+      "quote": "The email and WhatsApp flows she set up now bring back customers on autopilot. Repeat orders are up and our ad spend stayed the same.",
+      "name": "Farhana Akter",
+      "role": "Co-founder, GlowLab",
+      "rating": 5
+    },
+    {
+      "quote": "From store setup to first 1,000 orders, Khajida handled the full journey. Reliable, creative and honest about what works.",
+      "name": "Rakib Hasan",
+      "role": "Founder, Urban Cart BD",
+      "rating": 5
+    }
+  ],
+  "autoplayMs": 6000
+}

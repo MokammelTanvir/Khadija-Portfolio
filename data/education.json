@@ -1,0 +1,25 @@
+{
+  "eyebrow": "Education",
+  "title": "Learning that never stops",
+  "education": [
+    {
+      "degree": "BBA in Marketing",
+      "school": "University of Dhaka",
+      "period": "2014 – 2018",
+      "note": "CGPA 3.62 / 4.00"
+    },
+    {
+      "degree": "Higher Secondary Certificate (HSC)",
+      "school": "Holy Cross College, Dhaka",
+      "period": "2012 – 2014",
+      "note": "Business Studies · GPA 5.00"
+    }
+  ],
+  "certificationsTitle": "Certifications",
+  "certifications": [
+    { "name": "Google Ads Search Certification", "issuer": "Google", "year": "2024" },
+    { "name": "Meta Certified Digital Marketing Associate", "issuer": "Meta", "year": "2023" },
+    { "name": "Google Analytics 4 Certification", "issuer": "Google Skillshop", "year": "2024" },
+    { "name": "HubSpot Inbound Marketing", "issuer": "HubSpot Academy", "year": "2022" }
+  ]
+}
